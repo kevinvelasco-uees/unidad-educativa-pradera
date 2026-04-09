@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --bs-tertiary: #797E88;
-    --institucion-primary: #1E183A;
-    --institucion-secondary: #E71D2C;
-    --institucion-tertiary: #797E88;
+    --bs-tertiary: #F8F9FA;
+    --institucion-primary: #1F2A44;
+    --institucion-secondary: #C82333;
+    --institucion-tertiary: #A69282;
 }
 
 .back-to-top {
